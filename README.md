@@ -1,2 +1,2 @@
-# docker-allegrograph-
+# docker-allegrograph
 Docker image for AllegroGraph 
